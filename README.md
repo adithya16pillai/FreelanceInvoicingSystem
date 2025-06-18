@@ -40,4 +40,3 @@ A comprehensive invoicing system for freelancers to manage clients, projects, in
 3. Create a `.env` file with required environment variables
 4. Start the development server: `npm start`
 
-##
